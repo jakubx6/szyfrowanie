@@ -1,0 +1,6 @@
+﻿  Szyfrowanie.cpp
+c:\users\kuba bronicki\documents\szyfrowanie\szyfrowanie\Szyfrowanie.h(431): warning C4244: '=': conversion from 'Szyfrowanie::Szyfrowanie::inti' to 'int', possible loss of data
+c:\users\kuba bronicki\documents\szyfrowanie\szyfrowanie\Szyfrowanie.h(440): warning C4244: '=': conversion from 'Szyfrowanie::Szyfrowanie::inti' to 'int', possible loss of data
+  Szyfrowanie.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Szyfrowanie.vcxproj -> C:\Users\Kuba Bronicki\Documents\Szyfrowanie\Debug\Szyfrowanie.exe
+  Szyfrowanie.vcxproj -> C:\Users\Kuba Bronicki\Documents\Szyfrowanie\Debug\Szyfrowanie.pdb (Partial PDB)
